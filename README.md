@@ -2,6 +2,8 @@
 
 This repo contains the completed React and Redux application created in [Building Applications with React and Redux in ES6]
 
+Reference Document: _ReactAdminModule-DemoApp.docx
+
 ## Version 
 ```
 Node v11.8.0 
